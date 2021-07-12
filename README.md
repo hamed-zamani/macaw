@@ -12,6 +12,8 @@ processing, and dialogue systems.
 
 For more information on Macaw, please refer to [this paper](https://arxiv.org/pdf/1912.08904.pdf).
 
+** Note: We are cleaning up the code for our updated Macaw platform to support multi-modal interactions. The code will be available here soon. **
+
 Table of content:
 + [Macaw Architecture](#macaw-architecture)
     + [Interfaces](#interfaces)
